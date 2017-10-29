@@ -1,1 +1,1 @@
-# MySociety
+# SmartAttendance
